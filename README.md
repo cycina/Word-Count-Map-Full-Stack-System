@@ -16,7 +16,7 @@ To run the backend, perform the following steps:
 ### Testing
 The backend application includes tests to ensure the application is working as expected. To run the tests, use the following command: **npm test**
 
-## rontend
+## Frontend
 The frontend is implemented in React and displays the received word count maps. It updates automatically when new data is available.
 
 ### Usage
