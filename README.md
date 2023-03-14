@@ -8,10 +8,10 @@ The backend is implemented in Node.js and retrieves blog posts from the https://
 ### Usage
 To run the backend, perform the following steps:
 
-Open your computer's terminal application and navigate to the **backend** directory of the repository.
-Install all the required dependencies by running the **npm install** command.
-Start the server by running the **npm start** command.
-The server is started on port 4000.
+1. Open your computer's terminal application and navigate to the **backend** directory of the repository.
+2. Install all the required dependencies by running the **npm install** command.
+3. Start the server by running the **npm start** command.
+4. The server is started on port 4000.
 
 ### Testing
 The backend application includes tests to ensure the application is working as expected. To run the tests, use the following command: **npm test**
@@ -22,7 +22,7 @@ The frontend is implemented in React and displays the received word count maps. 
 ### Usage
 To run the frontend, perform the following steps:
 
-Open your computer's terminal application and navigate to the **frontend** directory of the repository.
-Install all the required dependencies by running the **npm install** command.
-Start the application by running the npm start command.
-The application is started on port 3000.
+1. Open your computer's terminal application and navigate to the **frontend** directory of the repository.
+2. Install all the required dependencies by running the **npm install** command.
+3. Start the application by running the npm start command.
+4. The application is started on port 3000.
